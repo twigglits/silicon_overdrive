@@ -24,9 +24,11 @@ source .venv/bin/activate
 # 1. Install dependencies
 pip install -r requirements.txt
 
-# 2. Set your OpenAI API key (required for embedding + generation)
+# we copy a placeholder template for API key
 cp .env.example .env
-# Edit .env and set OPENAI_API_KEY=sk-...
+
+# 2. Set your OpenAI API key (required for embedding + generation) IMPORTANT: KEY IS PRESENT IN EMAIL
+# Edit .env and set OPENAI_API_KEY=<API_KEY_VALUE_HERE>
 
 # 3. Scrape the essays (~220 essays, takes a few minutes with rate limiting)
 python -m src.scraper
