@@ -1,0 +1,30 @@
+[
+  {
+    "question": "What does Paul Graham think about working on hard problems?",
+    "expected_answer": "Paul Graham believes that working on hard problems is important and rewarding. He argues that the best way to do great work is to work on problems that are both interesting and important, and that hard problems tend to be the ones worth solving."
+  },
+  {
+    "question": "What is Paul Graham's advice for startups?",
+    "expected_answer": "Paul Graham advises startups to make something people want, launch fast, iterate based on user feedback, and focus on growth. He emphasizes the importance of talking to users, being frugal, and not scaling prematurely."
+  },
+  {
+    "question": "What does Paul Graham say about essays and writing?",
+    "expected_answer": "Paul Graham views essays as a way to explore and develop ideas. He believes writing is a form of thinking, and that the essay format allows for discovering ideas through the process of writing rather than just communicating pre-formed thoughts."
+  },
+  {
+    "question": "How does Paul Graham view the relationship between programming and painting?",
+    "expected_answer": "Paul Graham draws parallels between programming and painting, arguing that both are creative endeavors. He suggests that hackers and painters are both makers, and that good programming, like good art, requires taste, empathy, and iterative refinement."
+  },
+  {
+    "question": "What does Paul Graham think about wealth creation?",
+    "expected_answer": "Paul Graham argues that wealth is not a fixed pie but can be created. He believes startups are a way to compress a lifetime of work into a few years, and that creating wealth is about making things people want."
+  },
+  {
+    "question": "What is Paul Graham's perspective on formal education?",
+    "expected_answer": "Paul Graham is critical of traditional education, arguing that it often teaches the wrong things and rewards the wrong behaviors. He believes real learning comes from working on things you're genuinely interested in, not from following a prescribed curriculum."
+  },
+  {
+    "question": "What does Paul Graham say about the difference between a startup and a regular business?",
+    "expected_answer": "Paul Graham defines a startup as a company designed for rapid growth, which distinguishes it from regular small businesses. The key difference is that startups aim to create something that can scale to serve a large market."
+  }
+]
