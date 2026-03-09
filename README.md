@@ -182,5 +182,4 @@ Sources:
 - Adding a cross-encoder reranker (e.g., `cross-encoder/ms-marco-MiniLM`) between retrieval and generation
 - Implementing chunk deduplication and diversity-based reranking
 - Adding answer relevance and completeness metrics alongside faithfulness
-- Building a small human-labeled eval set for ground truth comparison
 - Adding streaming responses for the interactive mode
