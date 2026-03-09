@@ -91,12 +91,12 @@ The evaluation suite (`python main.py --evaluate`) tests 7 manually-crafted ques
 
 | Question | Faithfulness | Sources |
 |----------|:---:|:---:|
-| What does Paul Graham think about working on hard problems? | 1.00 | 4 |
-| What is Paul Graham's advice for startups? | 1.00 | 5 |
-| What does Paul Graham say about essays and writing? | 1.00 | 3 |
-| How does Paul Graham view the relationship between programming and painting? | 1.00 | 2 |
-| What does Paul Graham think about wealth creation? | 1.00 | 3 |
-| What is Paul Graham's perspective on formal education? | 1.00 | 5 |
+| What does Paul think about working on hard problems? | 1.00 | 4 |
+| What is Graham's advice for startups? | 1.00 | 5 |
+| What does the author say about essays and writing? | 1.00 | 3 |
+| How does the writer view the relationship between programming and painting? | 1.00 | 2 |
+| What does the narrator think about wealth creation? | 1.00 | 3 |
+| What is the author's perspective on formal education? | 1.00 | 5 |
 | What does Paul Graham say about the difference between a startup and a regular business? | 1.00 | 4 |
 | **Average** | **1.00** | |
 
